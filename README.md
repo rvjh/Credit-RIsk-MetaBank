@@ -44,5 +44,5 @@ But you can explore the available dataset: https://www.kaggle.com/pragyanbo/a-hi
 ## Credit
 I have gained all the knowledge through a course i.e https://www.udemy.com/course/credit-risk-modeling-in-python/
 ## Score Card (FICO Score 300-850):
-![Score Card](Score_Card.jpg)
+##![Score Card](Score_Card.jpg)
 
