@@ -27,9 +27,6 @@ The main aim of this project is to explore the dataset and discuss some interest
 │    ├── Step_7) Expected Loss.ipynb (Calculating expected loss)
 </pre>
 
-## Deployment:
-I have deployed the model at Heroku. You can have a look: https://abhash-crm.herokuapp.com/
-
 ## Dataset:
 The dataset contains all available data for more than 800,000 consumer loans issued from 2007 to 2015 by Lending Club: a large US peer-to-peer lending company.
 There are several different versions of this dataset. I have used a 1st version but now dataset is not available on kaggle.com
